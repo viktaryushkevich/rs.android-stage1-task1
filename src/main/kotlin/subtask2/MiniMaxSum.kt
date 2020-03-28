@@ -7,3 +7,7 @@ class MiniMaxSum {
         throw NotImplementedError("Not implemented")
     }
 }
+
+fun main() {
+    println('Hello world')
+}
